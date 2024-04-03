@@ -44,8 +44,9 @@
     margin-left: 50px;
     float: left;
     width: 400px;
-    height: 450px;
+    height: 580px;
     background-color: #858585;
+    border-radius: 10px;
 }
 
 #titleHeadLine {
@@ -69,6 +70,7 @@
     width: 450px;
     height: 450px;
     background-color: #858585;
+    border-radius: 20px;
 }
 
 #quizName {
@@ -82,7 +84,14 @@
 #quizImg {
     float: left;
     margin-left: 25px;
-    margin-top: 20px;
+    margin-top: 40px;
     width: 400px;
     height: 300px;
+}
+
+#posterJapan {
+    float: left;
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
 }
